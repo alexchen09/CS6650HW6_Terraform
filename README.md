@@ -15,6 +15,9 @@ cd into the repo folder
 
 ### Install Packer and Terraform
 
+##### Note:
+Packer is used here for demo purpose. Using Docker is recommended, see [this video](https://youtu.be/e_RaQJAkWs4)
+
 Install [Packer](https://developer.hashicorp.com/packer/tutorials/docker-get-started/get-started-install-cli) on Amazon Linux  
 
 ```
