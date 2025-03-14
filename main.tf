@@ -18,6 +18,7 @@ variable "db_username" {
   default = "mydbuser"
 }
 
+
 variable "db_password" {
   type    = string
   default = "mydbpass123"
